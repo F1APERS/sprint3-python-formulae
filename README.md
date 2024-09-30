@@ -3,6 +3,9 @@
 ## Descrição
 Este é um projeto que permite ao usuário acessar informações sobre as equipes e pilotos da Fórmula E, podendo acessar desde informações básicas como nome, até estatísticas do campeonato. 
 
+## Link do vídeo explicativo
+https://youtu.be/opsZRHuMVeU
+
 ## Como usar
 1. Execute o arquivo `main.py`.
 2. No menu principal, escolha entre "Acessar equipes", "Acessar pilotos" ou "Sair".
